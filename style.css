@@ -30,3 +30,8 @@ tr:hover{
     color:black;
     background-color:white;
 }
+a{
+    color:black;
+    font-family:arial;
+    font-size:30px;
+}
