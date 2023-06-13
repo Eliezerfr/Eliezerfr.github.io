@@ -34,7 +34,6 @@ tr:hover{
   flex-wrap: nowrap;
   background-color: DodgerBlue;
 }
-
 .flex-container > div {
   background-color: #f1f1f1;
   width: 100px;
