@@ -32,10 +32,10 @@ tr:hover{
 .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  background-color: DodgerBlue;
+  background-color: #1F2335;
 }
 .flex-container > div {
-  background-color: #f1f1f1;
+  background-color: #616E8A;
   width: 100px;
   margin: 10px;
   text-align: center;
