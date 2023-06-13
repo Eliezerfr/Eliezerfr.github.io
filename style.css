@@ -43,8 +43,8 @@ tr:hover{
   font-size: 30px;
 }
 a:link, a:visited {
-  background-color: cyan;
-  color: white;
+  background-color: #1F2335;
+  color: #616E8A;;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
