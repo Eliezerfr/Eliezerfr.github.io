@@ -25,7 +25,7 @@ table {
     color: #616E8A;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-tr:hover{
+tr:hover {
     color:black;
     background-color:white;
 }
@@ -34,14 +34,19 @@ tr:hover{
   flex-wrap: nowrap;
   background-color: #1F2335;
 }
+.flex-container: hover {
+  color: red;
+  background-color: white;
+}
 .flex-container > div {
   background-color: #616E8A;
   width: 100px;
   margin: 10px;
   text-align: center;
   line-height: 75px;
-  font-size: 30px;
+  font-size: 30px
 }
+
 a:link, a:visited {
   background-color: #1F2335;
   color: #616E8A;
