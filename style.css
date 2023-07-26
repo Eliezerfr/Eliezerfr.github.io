@@ -60,5 +60,7 @@ a:link, a:visited {
         margin-right: auto;
         float: none;
         align: center;
+        font-size: 20px;
+        font-family: monospace
     }
 }
